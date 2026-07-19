@@ -1,10 +1,20 @@
 # Flower shop Simulation (Part 1)
 
-## About the project
-This is a text_based flower shop simulation project which is implemented in the python langauge using object oriented programming. The shop owner manage florists, create and sell bouquets, manage inventory and supplies, handle expenditures, calculate incomings and outgoings, and also calculates total money left in the shop using this text based program. The overall idea is to simulate the operations of a flower shop for multiple months and to provide insights to the shop owner of month to month transactions. The program terminates automatically when the shop is bankrupt.
+## Overview
 
-## Background
-A flower shop makes different types of bouquets and sell them to the customers. Florists are responsible for producing the bouquets as per the orders. The  shop owner looks after the adding  and removing the florists according to the demand, takes decisions on how many bouquet to sell, chooses vendor and restock the supply. This simulation keeps notes of supplies, restocking cost, staff salaries, customer demand, vendor cost, incomings, and at the end generates overall money left in the shop.
+This project implements a **text-based Flower Shop Simulation System** using **Python and Object-Oriented Programming (OOP)** principles. The simulation models the day-to-day operations of a flower shop, including managing florists, creating bouquets, handling inventory, selecting vendors, processing sales, and tracking financial transactions.
+
+The program simulates shop operations over multiple months, allowing the owner to make decisions related to staffing, production, sales, and resource management. The simulation continuously monitors income and expenses and terminates automatically when the shop becomes financially unsustainable.
+
+## Objectives
+
+The main objectives of this project were:
+
+- Apply core **Object-Oriented Programming concepts** such as encapsulation, inheritance, abstraction, and modular design.
+- Design a maintainable software structure by separating different components of the application into independent Python modules.
+- Simulate real-world business operations including inventory management, employee management, sales processing, and financial tracking.
+- Implement reusable classes for flowers, bouquets, vendors, florists, and shop operations.
+- Develop a simulation system that demonstrates decision-making, resource management, and object interactions in a real-world scenario.
 
 ## Code Design and Structure
 This project is separted into several Python files, each one of them represents a part of the flower shop. This design of creating multiple python files as modules helps in maintaing the code.
