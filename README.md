@@ -1,4 +1,4 @@
-# Flower shop Simulation (Part 1)
+# Flower shop Simulation 
 
 ## Overview
 
