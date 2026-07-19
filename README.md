@@ -211,10 +211,11 @@ Congratulations! You have completed the simulation!
 ├── main.py             # Entry point of the application
 └── vendor.py           # Handles vendor-related classes and interactions
 ```
+## Author
 
-
-
-   
+**Aman Kumar Singh**  
+MSc Data Science  
+University of Bristol
 
 
 
