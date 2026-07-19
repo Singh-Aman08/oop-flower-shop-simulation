@@ -189,21 +189,19 @@ Press (i) if you would like to see price information from either supplier.
 **********************************************************************
 Congratulations! You have completed the simulation! 
 ```
-# Data Analysis (Part 2)
-## Requirements
-### Following libraries are used in the part 2.
- - numpy: for numerical computations and array operations.
- - pandas: for data cleaning and analysis.
- - matplotlib: for creating graphs
- - seaborn: for creating graphs
- - requests: for collecting data from API.
- - json: for dealing with json formatted data.
- - scipy.stats: for statistics
- - statsmodels: for regression models
- - sklearn: for standardizing variables
 
- ### Follow the command To install these libraries.
- - pip install numpy pandas matplotlib seaborn requests scipy statsmodels scikit-learn
+## Repository Structure
+
+```text
+
+├── bouquet.py          # Defines bouquet-related classes and operations
+├── florist.py          # Handles florist-related functionality and management
+├── flower.py           # Contains flower classes and attributes
+├── flower_shop.py      # Implements core flower shop operations and management logic
+├── main.py             # Entry point of the application
+└── vendor.py           # Handles vendor-related classes and interactions
+```
+
 
 
    
